@@ -13,7 +13,8 @@ A = particles('A', 100, 1)
 B = particles('B', 0, 1)
 t = 0
 while abs(A.value-B.value)>0.01:
-    print "After 0.01 seconds, %n seconds have passed" %t
+    t+=0.01
+    print "After 0.01 seconds, %f seconds have passed" %t
     A.decay(B)
     B.decay(A)
     A.getnumber()
