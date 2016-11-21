@@ -2,9 +2,9 @@
 ![图一](https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/homework/diagram1.png)
 
 以下给出f取不同值时对应的相位图
-![F=1.4](https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/homework/F=1.4.png)
-![F=1.44]((https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/homework/F=1.44.png)
-![F=1.465]((https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/homework/F=1.465.png)
+F=1.4:![F=1.4](https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/homework/F=1.4.png)
+F=1.44:![F=1.44](https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/homework/F=1.44.png)
+F=1.465:![F=1.465](https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/homework/F=1.465.png)
 附图1源码：
 ```
 #define PI 3.14159265358979323846
