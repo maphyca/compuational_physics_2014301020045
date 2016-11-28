@@ -1,0 +1,3 @@
+#+TITLE:Exercise_10:4-10
+[[https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/exercise_10/a=0.01.png]] 
+[[https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/exercise_10/a=0.0008.png]] 
