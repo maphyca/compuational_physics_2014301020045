@@ -1,8 +1,6 @@
 #+TITLE:Exercise_10:4-10
-我们现在来证明，只有在两种情况下，有心力场的一切有界轨道都是封闭的：
-记角动量$\dot \varphi^2(t)r^2(t)=M$ \\
-$\frac{d \varphi}{dt}=\frac{M}{r^2\sqrt{2(E-V(r))}} \Rightarrow \varphi=\int \frac{M/r^2dr}{\sqrt{2(E-V(r))}}$
-即：$\phi=\int^{r_{max}}_{r_{min}}\frac{M/r^2dr}{\sqrt{2(E-V(r))}}$
-
+下面两张图为a取不同值是对应的轨迹
 [[https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/exercise_10/a=0.01.png]] 
 [[https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/exercise_10/a=0.0008.png]] 
+下图为e取不同值时对应的岁差
+[[https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/exercise_10/precession.png]] 
