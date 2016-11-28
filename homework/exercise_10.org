@@ -3,4 +3,5 @@
 [[https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/exercise_10/a=0.01.png]] 
 [[https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/exercise_10/a=0.0008.png]] 
 下图为e取不同值时对应的岁差
+
 [[https://raw.githubusercontent.com/maphyca/compuational_physics_2014301020045/master/exercise_10/precession.png]] 
